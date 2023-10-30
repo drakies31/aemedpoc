@@ -223,6 +223,10 @@ main img {
   width: 24px;
 }
 
+.button-container {
+  background-color: blue;
+}
+
 .icon img {
   height: 100%;
   width: 100%;
